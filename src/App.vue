@@ -10,7 +10,7 @@
 export default {
   created() {
     const counterMap = localStorage.getItem('goods') || {};
-    this.$store.commit('setCounterMap', counterMap);
+    this.$store.commit('setCounterMap', JSON.parse(counterMap));
   },
   data() {
     return {
