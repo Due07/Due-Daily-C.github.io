@@ -1,4 +1,4 @@
-# daily-c
+# daily-c ----每日优鲜app
 
 ## Project setup
 ```
