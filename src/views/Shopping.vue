@@ -13,7 +13,7 @@
     <footer class='footer'>
       <div class="footer-head">———————店铺信息———————</div>
       <img src="../images/due.jpg" alt="">
-      <div class="footer-text">Due模范每日优鲜</div>
+      <div class="footer-text">Due模仿每日优鲜App</div>
     </footer>
   </div>
   <div class="shopping" v-else>
